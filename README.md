@@ -8,3 +8,4 @@ But since I cannot find another source for it and at work we have a lot of power
 This repository contains a collection for common issues from various sources like:
 
 - https://mathieubuisson.github.io/measuring-powershell-code-complexity/
+- https://pscodehealth.readthedocs.io/en/latest/
